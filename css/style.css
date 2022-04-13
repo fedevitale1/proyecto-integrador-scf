@@ -1,7 +1,18 @@
 .bodyIndex{
-    background-image: url(../img/home.jpg);
+    background-image: url(../img/fondo\ violeta.jfif);
 }
 .h1index{
     font-size: 50px;
     color: blue;
+}
+
+.headerPadre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo{
+    width: 150px;
+    height: 160px;
 }
