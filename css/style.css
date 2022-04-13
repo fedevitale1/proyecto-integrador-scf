@@ -1,18 +1,29 @@
+body{margin: 0;}
+ul, ol {padding: 0;}
+li {list-style-type: none;}
+a {text-decoration; none; color: black}
+
 .bodyIndex{
     background-image: url(../img/fondo\ violeta.jfif);
 }
-.h1index{
-    font-size: 50px;
-    color: blue;
+.h1Index{
+    font-size:;
+    color: ;
 }
 
 .headerPadre{
     display: flex;
     flex-direction: column;
+    height: 12vh;
+    border-bottom: 2px solid black;
     align-items: center;
+    justify-content: space-between;
 }
 
 .logo{
     width: 150px;
-    height: 160px;
+}
+
+.logoContainer{
+    align-self: center;
 }
