@@ -1,14 +1,9 @@
 body{margin: 0;}
 ul, ol {padding: 0;}
 li {list-style-type: none;}
-a {text-decoration; none; color: black}
 
 .bodyIndex{
-    background-image: url(../img/fondo\ violeta.jfif);
-}
-.h1Index{
-    font-size:;
-    color: ;
+    background-color: aliceblue;
 }
 
 .headerPadre{
@@ -26,4 +21,28 @@ a {text-decoration; none; color: black}
 
 .logoContainer{
     align-self: center;
+}
+.track-list{
+    display: flex;
+    flex-direction: row;
+}
+.album-list{
+    display: flex;
+    flex-direction: row;
+}
+.artist-list{
+    display: flex;
+    flex-direction: row;
+}
+.indexArtistPic{
+    height: 300px;
+    width: 300px;
+}
+.indexAlbumsPic{
+    height: 300px;
+    width: 300px; 
+}
+.indexSongPic{
+    height: 300px;
+    width: 300px; 
 }
