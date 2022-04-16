@@ -33,6 +33,7 @@ li {list-style-type: none;}
 .artist-list{
     display: flex;
     flex-direction: row;
+    
 }
 .indexArtistPic{
     height: 300px;
@@ -70,4 +71,32 @@ li {list-style-type: none;}
     text-align: center;
     text-decoration: none;
     color: darkgreen;
+}
+.trackDetailText{
+    text-align: center;
+}
+.buttonTrack{
+    position: absolute;
+left: 50%;
+transform: translate(-50%, -50%);
+border: 5px solid #0ccc3c;
+padding: 5px;
+}
+.tituloDetail{
+    text-align: center;
+
+}
+.detailTrackPic{
+    height: 300px;
+    width: 300px;
+}
+.trackDetail{
+background: #dac4c4;
+display: flex;
+justify-content: center;
+}
+.trackDetailText{
+    font-size: 20px;
+    text-align: center;
+    color: black
 }
