@@ -46,3 +46,7 @@ li {list-style-type: none;}
     height: 300px;
     width: 300px; 
 }
+.indexSubtitles{
+    text-align: center;
+    font-size: 50px;
+}
