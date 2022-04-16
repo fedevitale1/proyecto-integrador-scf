@@ -50,3 +50,24 @@ li {list-style-type: none;}
     text-align: center;
     font-size: 50px;
 }
+.trackIndexList{
+    text-align: center;
+}
+.trackIndexLinks{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: darkgreen;
+}
+.albumIndexLinks{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: darkgreen;
+}
+.artistIndexLinks{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: darkgreen;
+}
