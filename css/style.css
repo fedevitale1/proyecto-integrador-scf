@@ -100,3 +100,14 @@ justify-content: center;
     text-align: center;
     color: black
 }
+.albumDetailText{
+    font-size: 20px;
+}
+.albumDetailTrackList{
+    font-size: 25px;
+    text-decoration: none;
+    color: darkgreen;
+}
+.detailArtistPic{
+    height: 300px;
+}
